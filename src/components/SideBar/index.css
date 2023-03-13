@@ -1,0 +1,9 @@
+.linkStyle {
+  text-decoration: none;
+  color: #fff;
+}
+.active {
+  background-color: #ff000079;
+  width: 17vw;
+  color: #ff0000;
+}
